@@ -1,7 +1,7 @@
 #
 #
-# Authour: Raul Cresp
-# Create date: 12/november/2019
+# Author: Raul Crespo
+# Create date: 12 november 2019
 # Description: programa para gerenciar compras e vendas de assentos de um cinema
 # Name: cinema-tickets
 # Link: https://snipsave.com/user/crespo/snippet/REHAWrVX2v8TZYaVPX/
